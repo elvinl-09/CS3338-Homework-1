@@ -1,0 +1,78 @@
+commit 502fdb06075c26145421d36832f3e8330c037847
+Author: Elvin Funes-Lobos <elvinfunes@Mac.lan>
+Date:   Thu Sep 17 20:08:55 2026 -0700
+
+    Add Carlo's groupmate information
+
+    Update the About Me page with Carlo's name, hobby, favorite food, and fun fact.
+
+    Co-authored-by: Copilot App <223556219+Copilot@users.noreply.github.com>
+
+commit c67e16836a20ac95b178184508a255cf0b3f8191
+Merge: f37cdce 58651fb
+Author: elvinl-09 <efunesl@calstatela.edu>
+Date:   Thu Sep 17 20:04:20 2026 -0700
+
+    Merge pull request #1 from elvinl-09/feature-about-me
+
+    Update About Me page
+
+commit 58651fbf71efc5f6384f74c9d22b9dfc11dbd5d4
+Merge: 66e2597 f37cdce
+Author: Elvin Funes-Lobos <elvinfunes@Mac.lan>
+Date:   Thu Sep 17 20:04:12 2026 -0700
+
+    Resolve merge conflict with main
+
+    Keep the completed About Me page when merging the current main branch.
+
+    Co-authored-by: Copilot App <223556219+Copilot@users.noreply.github.com>
+
+commit 66e25970fb747e0bad1b7a6338fbf90ac863931f
+Author: Elvin Funes-Lobos <elvinfunes@Mac.lan>
+Date:   Thu Sep 17 20:01:57 2026 -0700
+
+    Update About Me page
+
+    Replace the template placeholders with Elvin Funes's personal information and mark unavailable groupmate details as not provided.
+
+    Co-authored-by: Copilot App <223556219+Copilot@users.noreply.github.com>
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
